@@ -1,4 +1,4 @@
- #### ✅ Участник 4: `cache_manager.py` + сборка (Рамзин М.А.)
+ #### ✅ Участник Рамзин М.А. : `cache_manager.py` + сборка
 
 ```python
 # cache_manager.py
