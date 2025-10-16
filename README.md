@@ -17,5 +17,5 @@
 - Упаковка: `pyinstaller`
 
 ## 📥 Установка
-```bash
+```PowerShell
 pip install click requests
