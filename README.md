@@ -19,6 +19,7 @@
 ## 📥 Установка pyInstaller
 ```PowerShell
 pip install pyinstaller
+```
 
 ## 📥 Сборка проекта
 ```PowerShell
