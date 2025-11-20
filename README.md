@@ -16,6 +16,10 @@
 - Кэширование: `json`-файл
 - Упаковка: `pyinstaller`
 
-## 📥 Установка
+## 📥 Установка pyInstaller
 ```PowerShell
 pip install pyinstaller
+
+## 📥 Сборка проекта
+```PowerShell
+pyInstaller --onefile main.py
