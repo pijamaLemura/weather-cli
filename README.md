@@ -18,4 +18,4 @@
 
 ## 📥 Установка
 ```PowerShell
-pip install click requests
+pip install pyinstaller
